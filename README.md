@@ -22,7 +22,7 @@ Compare
 
 [](https://github.com/akrtkk/daos1/releases/edit/v.1.0)Edit: DAOS 1.0
 
-Delete: DAOS 1.0
+DAOS 1.0
 
 ![@akrtkk](https://avatars.githubusercontent.com/u/89004780?s=40&v=4) [akrtkk](https://github.com/akrtkk) released this now
 
