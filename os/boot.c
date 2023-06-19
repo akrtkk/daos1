@@ -60,7 +60,7 @@ int main() {
     char* menu_items[MENU_ITEMS_COUNT] = {
         "Lenti Terminal",
         "Calenluctor",
-        "LenMan"
+        "LenMan",
         "Exit and Close"
     };
 
