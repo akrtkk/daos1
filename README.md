@@ -24,7 +24,7 @@ Compare
 
 DAOS 1.0
 
-![@akrtkk]<img src="[drawing.jpg](https://avatars.githubusercontent.com/u/89004780?s=40&v=4)" alt="drawing" width="200"/> released this now
+![@akrtkk](https://avatars.githubusercontent.com/u/89004780?s=40&v=4)" released this now
 
 [ v.1.0](https://github.com/akrtkk/daos1/tree/v.1.0)
 
