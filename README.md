@@ -13,20 +13,19 @@ Libraries Needed
 
 ` termios.h ` 
 
-DAOS 1.3
+DAOS 1.5
 ========
 
  [Latest](https://github.com/akrtkk/daos1/releases/latest)
 
-Compare
 
-[](https://github.com/akrtkk/daos1/releases/edit/v.1.3)Edit: DAOS 1.3
+[](https://github.com/akrtkk/daos1/releases/edit/v.1.5)
 
-[ v.1.0](https://github.com/akrtkk/daos1/tree/v.1.3)
+[ v.1.0](https://github.com/akrtkk/daos1/tree/v.1.5)
 
-[ `b6574ac` ](https://github.com/akrtkk/daos1/commit/b6574ac349fde3c2337f7cf3e20f24e94829e26b)
+[ `db7010d` ]((https://github.com/akrtkk/daos1/commit/db7010d7227b8d6111773ec02374840d201250d2))
 
-Full Changelog: <https://github.com/akrtkk/daos1/commits/v.1.3>
+Full Changelog: <https://github.com/akrtkk/daos1/commits/v.1.5>
 
 Assets (1)
 
