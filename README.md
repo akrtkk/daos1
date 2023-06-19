@@ -1,12 +1,12 @@
 # daos1
 Only works with Linux Latest Version and GCC
 
-''' Libraries Needed '''
+``` Libraries Needed ```
 
-'stdio.h'
+` stdio.h `
 
-'stdlib.h'
+` stdlib.h `
 
-'unistd.h'
+` unistd.h `
 
-'termios.h'
+` termios.h ` 
