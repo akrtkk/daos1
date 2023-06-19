@@ -32,8 +32,7 @@ DAOS 1.0
 
 Full Changelog: <https://github.com/akrtkk/daos1/commits/v.1.0>
 
-Assets 2
+Assets (1)
 
--   [Source code(zip)](https://github.com/akrtkk/daos1/archive/refs/tags/v.1.0.zip)
 
 -   [Source code(tar.gz)](https://github.com/akrtkk/daos1/archive/refs/tags/v.1.0.tar.gz)
