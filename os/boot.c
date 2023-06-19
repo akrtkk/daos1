@@ -3,7 +3,7 @@
 #include <termios.h>
 #include <unistd.h>
 
-#define MENU_ITEMS_COUNT 3
+#define MENU_ITEMS_COUNT 4
 
 void clear_screen() {
     printf("\033[H\033[J"); // ANSI escape sequence for clearing the screen
